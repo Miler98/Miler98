@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Miler Oviedo</h1>
+<h1 align="center">Hola 👋, I'm Miler Oviedo</h1>
 <h3 align="center">Develop junior from Colombian</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miler98" alt="miler98" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: @m.dress.es</h3>
 <p align="left">
 </p>
 
